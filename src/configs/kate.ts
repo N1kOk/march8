@@ -1,4 +1,4 @@
 export const kateConfig = {
   title: 'Любимой Сестре',
-  text: 'Поздравление',
+  text: 'Пусть твои dreams станут реальностью, а heart переполнит счастье!',
 }
